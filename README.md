@@ -108,10 +108,8 @@ The trained model is logged to MLflow and also exported with `joblib`.
 | Metric               | Score  |
 | -------------------- | ------ |
 | Accuracy             | 83.33% |
-| Precision (disease)  | 76.47% |
-| Recall (disease)     | 92.86% |
-
-> Evaluated on a hold-out set of 60 patients. The test set is small, so results can vary with a different split. Cross-validation is planned (see [Roadmap](#roadmap)).
+| Precision (disease)  | 91.31% |
+| Recall (disease)     | 75.00% |
 
 ---
 
